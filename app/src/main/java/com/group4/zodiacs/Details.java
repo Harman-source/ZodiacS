@@ -144,6 +144,6 @@ public class Details extends AppCompatActivity {
         }
     }
 
-
+//this is main project
 
 }
