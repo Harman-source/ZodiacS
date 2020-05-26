@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
-
+//this is main file
     public void aries(View view) {
         Toast.makeText(getApplicationContext(), "Aries", Toast.LENGTH_SHORT).show();
         Intent intent = new Intent(this, Details.class);
