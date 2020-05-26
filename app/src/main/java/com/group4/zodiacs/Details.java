@@ -30,7 +30,7 @@ public class Details extends AppCompatActivity {
         // Get the Intent that started this activity
         Intent intent = getIntent();
         String sign = intent.getStringExtra("sign");
-
+//details.jav
         if(Objects.equals(sign, "aries")){
             Spanned spanned = HtmlCompat.fromHtml(getString(R.string.aries_text), HtmlCompat.FROM_HTML_MODE_COMPACT);
             TextView xOutput = (TextView) findViewById(R.id.details);
