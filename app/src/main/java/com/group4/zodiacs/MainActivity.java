@@ -9,6 +9,7 @@ import android.widget.Toast;
 import android.os.Bundle;
 
 //this is text file
+//this is a mainactivity.java file
 
 public class MainActivity extends AppCompatActivity {
 
