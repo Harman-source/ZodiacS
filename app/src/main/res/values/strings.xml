@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Zodiac Signs</string>
+    <string name="horoscope">Zodiac Signs</string>
+    <string name="title">Zodiac Signs 2020</string>
+    <string name="copy">Copyright &#169;  Ayraa Informatics Inc. 2020</string>
+    <string name="home">Go Home</string>
+    <string name="aries">aries</string>
+    <string name="taurus">taurus</string>
+    <string name="gemini">gemini</string>
+    <string name="cancer">cancer</string>
+    <string name="leo">leo</string>
+    <string name="virgo">virgo</string>
+    <string name="libra">libra</string>
+    <string name="scorpio">scorpio</string>
+    <string name="sagittarius">sagittarius</string>
+    <string name="capricorn">capricorn</string>
+    <string name="aquarius">aquarius</string>
+    <string name="pisces">pisces</string>
+
+    <string name="aries_text"><![CDATA[
+        <h1>Aries</h1>
+        <strong>March 21 to April 19</strong><br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Mars <br>
+        <strong>Color:</strong> Red <br>
+        <p align="justify">
+            Aries is the first sign of the zodiac, and that\'s pretty much how those born under this sign see themselves: first. Aries are the leaders of the pack, first in line to get things going. Whether or not everything gets done is another question altogether, for an Aries prefers to initiate rather than to complete. Do you have a project needing a kick-start? Call an Aries, by all means. The leadership displayed by Aries is most impressive, so don\'t be surprised if they can rally the troops against seemingly insurmountable odds -they have that kind of personal magnetism.
+        </p>
+       ]]></string>
+
+    <string name="taurus_text"><![CDATA[
+        <h1>Taurus</h1>
+        <strong>April 20 to May 20<strong><br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Planet:</strong> Venus<br>
+        <strong>Color:</strong> Green<br>
+        <p align="justify">
+            Taurus, the second sign of the zodiac and the ruler of the second house, is all about reward. Unlike the Aries love of the game, the typical Taurus personality loves the rewards of the game. Think physical pleasures and material goods, for those born under this sign revel in delicious excess. This zodiac sign is also tactile, enjoying a tender, even sensual, touch.
+        </p>
+        <p align="justify">
+            Taurus adores comfort and likes being surrounded by pleasing, soothing things. Along these lines, they also favor a good meal and a fine wine. The good life in all its guises, whether it\'s the arts or art of their own making (yes, these folks are artistic as well), is heaven on Earth to the Taurus-born.
+        </p>
+    ]]></string>
+
+    <string name="gemini_text"><![CDATA[
+        <h1>Gemini</h1>
+        <strong>May 21 to June 20<strong><br>
+        <strong>Element:</strong> Air <br>
+        <strong>Planet:</strong> Mercury <br>
+        <strong>Color:</strong> Yellow, blue <br>
+        <p align="justify">
+            Gemini is the third sign of the zodiac, and those born under this sign will be quick to tell you all about it. That\'s because they love to talk! It\'s not just idle chatter with these folks, either. The driving force behind a Gemini zodiac sign\'s conversation is their mind. Ruling the third house, the Gemini-born are intellectually inclined, forever probing people and places in search of information.
+        </p>
+		<p align="justify">
+			The more information a Gemini collects, the better. Sharing that information later on with those they love is also a lot of fun, for Geminis are supremely interested in developing their relationships. Dalliances with those of this astrology sign are always enjoyable, since Geminis are bright, quick-witted and the proverbial life of the party. Even though their intellectual minds can rationalize forever and a day, Geminis also have a surplus of imagination waiting to be tapped. Can a Gemini sign be boring? Never!
+        </p>
+    ]]></string>
+	
+	<string name="cancer_text"><![CDATA[
+        <h1>Cancer</h1>
+        <strong>June 20 to July 22<strong><br>
+        <strong>Element:</strong> Water<br>
+        <strong>Planet:</strong> Moon <br>
+        <strong>Color:</strong> White,Grey <br>
+        <p align="justify">
+            Cancer is the fourth astrological sign in the Zodiac, originating from the constellation of Cancer. It spans from 90&#176;  to 120&#176;  celestial longitude. In classical antiquity, the Sun transited this area between approximately June 22 and July 22.
+        </p>
+		<p align="justify">
+			In astrology, Cancer is the cardinal sign of the Water trigon, which is made up of Cancer, Pisces, and Scorpio.It is one of the six negative signs. Though some depictions of Cancer feature a lobster, the sign is most often represented by the crab, based on the Karkinos.
+        </p>
+    ]]></string>
+	
+	<string name="leo_text"><![CDATA[
+        <h1>Leo</h1>
+        <strong>July 22 to August 22<strong><br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Sun <br>
+        <strong>Color:</strong> Orange,Yellow <br>
+        <p align="justify">
+            Leo is the fifth astrological sign of the zodiac. It corresponds to the constellation Leo and comes after Cancer and before Virgo. The traditional Western zodiac associates Leo with the period between July 23 and August 22 and the sign spans the 120th to 150th degree of celestial longitude.
+        </p>
+		<p align="justify">
+			Leo is associated with fire, and its modality is fixed. Under the tropical zodiac, the Sun transits this area on average between July 23 and August 22 each year, and under the sidereal zodiac, the Sun currently transits this area from approximately August 16 to September 15.[3] The constellation Leo is associated with the mythological Nemean lion.Its opposite sign is Aquarius.
+        </p>
+    ]]></string>
+	
+	<string name="virgo_text"><![CDATA[
+        <h1>Virgo</h1>
+        <strong>August 22 to September 22<strong><br>
+        <strong>Element:</strong> Earth <br>
+        <strong>Planet:</strong> Mercury <br>
+        <strong>Color:</strong> Peach,Brown <br>
+        <p align="justify">
+            Virgo is the sixth astrological sign in the Zodiac. It spans the 150-180th degree of the zodiac. Under the tropical zodiac, the Sun transits this area on average between August 23 and September 22,and the Sun transits the constellation Virgo from approximately September 16 to October 30.
+        </p>
+		<p align="justify">
+			Individuals born during these dates, depending on which system of astrology they subscribe to, may be called Virgos or Virgoans.The symbol of the maiden is based on Astraea. In Greek mythology, she was the last immortal to abandon Earth at the end of the Silver Age, when the gods fled to Olympus - hence the sign association with Earth.
+        </p>
+    ]]></string>
+	
+	<string name="libra_text"><![CDATA[
+        <h1>Libra</h1>
+        <strong>September 22 to October 22<strong><br>
+        <strong>Element:</strong> Air <br>
+        <strong>Planet:</strong> Venus <br>
+        <strong>Color:</strong> Baby blue,Pink <br>
+        <p align="justify">
+            Libra is the seventh astrological sign in the Zodiac.It spans 180&#176; -210&#176;  celestial longitude.The Sun transits this sign on average between (northern autumnal equinox) September 23 and October 22.Under the sidereal zodiac, the Sun currently transits the constellation of Libra from approximately October 31 to November 22.
+        </p>
+		<p align="justify">
+			The symbol of the scales is based on the Scales of Justice held by Themis, the Greek personification of divine law and custom.She became the inspiration for modern depictions of Lady Justice. The ruling planet of Libra is Venus.Libra is the only zodiac constellation in the sky represented by an inanimate object. The other eleven signs are represented either as an animal or mythological characters throughout history.
+        </p>
+    ]]></string>
+	
+	<string name="scorpio_text"><![CDATA[
+        <h1>Scorpio</h1>
+        <strong>October 22 to November 21<strong><br>
+        <strong>Element:</strong> Water <br>
+        <strong>Planet:</strong> Pluto <br>
+        <strong>Color:</strong> Maroon,Black <br>
+        <p align="justify">
+            Scorpio is the eighth astrological sign in the Zodiac, originating from the constellation of Scorpius. It spans 210&#176; -240&#176;  ecliptic longitude. Under the tropical zodiac (most commonly used in Western astrology), the Sun transits this sign on average from October 23 to November 22.Under the sidereal zodiac (most commonly used in Hindu astrology), the Sun is in Scorpio from approximately November 16 to December 15.
+        </p>
+		<p align="justify">
+			Scorpio is one of the three water signs, the others being Cancer and Pisces.It is a fixed, negative sign.Scorpio is associated with three different animals: the scorpion, the snake, and the eagle.The snake and eagle are related to the nearby constellations of Ophiuchus and Aquila.Scorpio is also associated with the Greek deity Artemis, who is said to have created the constellation Scorpius.According to The Astrology Bible, Scorpio colors are deep red, maroon, and black.
+        </p>
+    ]]></string>
+	
+	<string name="sagittarius_text"><![CDATA[
+        <h1>Sagittarius</h1>
+        <strong>November 21 to December 21<strong><br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Jupiter <br>
+        <strong>Color:</strong> Purple,Dark blue <br>
+        <p align="justify">
+            Sagittarius is the ninth astrological sign, which is associated with the constellation Sagittarius and spans 240-270th degrees of the zodiac. Under the tropical zodiac, the sun transits this sign between approximately November 23 and December 21. Greek mythology associates Sagittarius with the centaur Chiron, who mentored Achilles, a Greek hero of the Trojan War, in archery.
+        </p>
+		<p align="justify">
+			Along with Aries and Leo, Sagittarius is a part of the Fire Trigon as well as the last of the reproductive trinity.It also follows Gemini and Virgo as third of the mutable signs, which are the signs that feature changeable quality.The symbol of the zodiac sign is a Centaur armed with arrows following an old tradition coming from Ancient Greece and from other cultures of the past.
+        </p>
+    ]]></string>
+	
+	<string name="capricorn_text"><![CDATA[
+        <h1>Capricorn</h1>
+        <strong>December 21 to January 19<strong><br>
+        <strong>Element:</strong> Earth <br>
+        <strong>Planet:</strong> Saturn <br>
+        <strong>Color:</strong> Black,Dark brown <br>
+        <p align="justify">
+            Capricorn  is the tenth astrological sign in the zodiac out of twelve total zodiac signs, originating from the constellation of Capricornus, the horned goat.It spans the 270-300th degree of the zodiac, corresponding to celestial longitude. Under the tropical zodiac, the sun transits this area from about December 21 to January 21 the following year, and under the sidereal zodiac, the sun transits the constellation of Capricorn from approximately January 16 to February 16.
+        </p>
+		<p align="justify">
+			In India, the zodiac sign of Capricorn is celebrated as the Makara Sankranti festival.The Indian astronomical calendar is not based on the western Gregorian or Julian date keeping system. Gregorian calendar has fixed days in a year and does not accommodate difference in the actual solar year. Therefore, the festival is celebrated on either of 14 or 15 January every year, when, as per the Indian astronomical calendar, the Sun actually enters the Capricorn sign.
+        </p>
+    ]]></string>
+	
+	<string name="aquarius_text"><![CDATA[
+        <h1>aquarius</h1>
+        <strong>January 20 to February 19<strong><br>
+        <strong>Element:</strong> Air<br>
+        <strong>Planet:</strong> Uranus<br>
+        <strong>Color:</strong> Turquoise,Aquamarine<br>
+        <p align="justify">
+            Aquarius is the eleventh astrological sign in the Zodiac originating from the constellation Aquarius.Under the tropical zodiac, the Sun is in the Aquarius sign between about January 21 and about February 20,while under the sidereal Zodiac, the sun is in Aquarius from approximately February 15 to March 14, depending on the leap year.
+        </p>
+		<p align="justify">
+			The water carrier represented by the zodiacal constellation Aquarius is Ganymede, a beautiful Phrygian youth. Ganymede was the son of Tros, king of Troy (according to Lucian, he was also the son of Dardanus).While tending to his father  flocks on Mount Ida, Ganymede was spotted by Zeus.
+        </p>
+    ]]></string>
+	
+	<string name="pisces_text"><![CDATA[
+        <h1>Pisces</h1>
+        <strong>February 19 to March 20<strong><br>
+        <strong>Element:</strong> Water <br>
+        <strong>Planet:</strong> Neptune <br>
+        <strong>Color:</strong> Aqua marine,Sea green <br>
+        <p align="justify">
+            Pisces is the twelfth astrological sign in the Zodiac.It is a negative mutable sign.It spans 330&#176;  to 360&#176;  of celestial longitude.Under the tropical zodiac, the sun transits this area between February 19 and March 20.In sidereal astrology, the Sun currently transits the constellation of Pisces from approximately March 12 to April 18.
+        </p>
+		<p align="justify">
+			While the astrological sign Pisces per definition runs from ecliptic longitude 330&#176;  to 0&#176; , this position is now mostly covered by the constellation of Aquarius due to the precession from when the constellation and the sign coincided. Today, the First Point of Aries, or the vernal equinox, is in the Pisces constellation.There are no prominent stars in the constellation, with the brightest stars being of only fourth magnitude.
+        </p>
+    ]]></string>
+
+
+
+</resources>
